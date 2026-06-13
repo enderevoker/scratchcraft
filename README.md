@@ -1,2 +1,2 @@
-# scratchcraft
+# ScratchCraft
 Minecraft made with Scratch
